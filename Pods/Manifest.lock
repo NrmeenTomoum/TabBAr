@@ -1,0 +1,12 @@
+PODS:
+  - MSSTabbedPageViewController (0.2.7)
+
+DEPENDENCIES:
+  - MSSTabbedPageViewController
+
+SPEC CHECKSUMS:
+  MSSTabbedPageViewController: c4e62244719c5d5357761093752d56263fe90397
+
+PODFILE CHECKSUM: 7fd035b0050d672cec08ec6bf8fd397cb9804a07
+
+COCOAPODS: 1.0.1
