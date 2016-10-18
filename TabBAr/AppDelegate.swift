@@ -7,7 +7,8 @@
 //
 
 import UIKit
-
+// no more sad it bad 
+// no one with good spired all zero 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
